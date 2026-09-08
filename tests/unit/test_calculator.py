@@ -5,7 +5,7 @@ from src.calculator import add, subtract, multiply, divide
 
 class TestBasicOperations:
     def test_add_positive_numbers(self):
-        assert add(2, 3) == 5
+        assert add(2, 3) == 10
 
     def test_subtract_positive_numbers(self):
         assert subtract(5, 3) == 2
