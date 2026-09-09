@@ -1,6 +1,6 @@
 # My Calculator
 
-A simple Python calculator project used for demonstrating Git, GitHub, and CI/CD.
+A simple Python cal project used for demonstrating Git, GitHub, and CI/CD.
 This is my fork.
 
 ## Project Structure
